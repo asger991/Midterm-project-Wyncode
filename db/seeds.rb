@@ -21,7 +21,10 @@ picture_array = [['https://i.imgur.com/xsHi1wL.jpg', 'https://i.imgur.com/xsHi1w
                  ['https://i.imgur.com/JenT3rf.jpg', 'https://i.imgur.com/JenT3rfb.jpg'],
                  ['https://i.imgur.com/P5A4RGq.jpg', 'https://i.imgur.com/P5A4RGqb.jpg'],
                  ['https://i.imgur.com/yGrdpxa.jpg', 'https://i.imgur.com/yGrdpxab.jpg'],
-                 ['https://i.imgur.com/imavQbC.jpg', 'https://i.imgur.com/imavQbCb.jpg']]
+                 ['https://i.imgur.com/imavQbC.jpg', 'https://i.imgur.com/imavQbCb.jpg'],
+                 ['https://i.imgur.com/wcwoUFS.jpg', 'https://i.imgur.com/wcwoUFSb.jpg'],
+                 ['https://i.imgur.com/jcr6waz.jpg', 'https://i.imgur.com/jcr6wazb.jpg'],
+                 ['https://i.imgur.com/btbKtny.jpg', 'https://i.imgur.com/btbKtnyb.jpg']]
 
 caption_array = ['What do you guys think?',
                  "I've never seen anything like this!",
